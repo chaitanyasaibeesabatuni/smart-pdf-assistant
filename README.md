@@ -18,9 +18,8 @@
 
 1. **Clone the repository**
 
-```bash
 git clone https://github.com/yourusername/smart-pdf-assistant.git
-cd smart-pdf-assistant'''
+cd smart-pdf-assistant
 
 ---
 
