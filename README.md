@@ -1,6 +1,6 @@
 # Smart PDF Assistant
 
-📚 **Smart PDF Assistant** is a Streamlit-based web application that allows users to upload PDFs and ask questions about their content. Using Retrieval-Augmented Generation (RAG) powered by LangChain, it provides accurate, context-aware answers from your uploaded documents.
+**Smart PDF Assistant** is a Streamlit-based web application that allows users to upload PDFs and ask questions about their content. Using Retrieval-Augmented Generation (RAG) powered by LangChain, it provides accurate, context-aware answers from your uploaded documents.
 
 ---
 
