@@ -24,9 +24,9 @@ cd smart-pdf-assistant
 ---
 
 
-**How to Use**
+## **How to Use**
 
-Create a virtual environment
+**Create a virtual environment**
 
 python -m venv venv
 source venv/bin/activate   # Linux / Mac
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ---
 
-Usage
+## Usage
 
 Run the Streamlit app:
 
@@ -60,4 +60,4 @@ Contributions are welcome! Please open an issue or submit a pull request for bug
 
 **Contact**
 
-**For questions or support, reach out to Your Name at chaitanyasaibeesabathuni@gmail.com**
+**For questions or support, reach out to Chaitanya Sai at chaitanyasaibeesabathuni@gmail.com**
